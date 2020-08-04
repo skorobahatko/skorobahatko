@@ -1,4 +1,4 @@
-### Hi there! My name is Max, im junior Front-End Developer. I'm currently learning Angular and TypeScript, also i'm currently working on myself ReactJS project, myself Angular project for my portfolio. I'm open to cooperation and work in full day.
+### Hi there! My name is Max, im junior Front-End Developer. I'm currently learning Angular and TypeScript, also i'm currently working on myself ReactJS project, myself Angular project for my portfolio. I'll study soon NodeJS and Ionic, so i will become a Full-Stack Web Developer. I'm open to cooperation and work in full day.
 
 <!--
 **skorobahatko/skorobahatko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
