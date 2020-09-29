@@ -1,4 +1,4 @@
-### Hi there! My name is Max, im pre-junior Full-Stack Web Developer. I'm currently learning NodeJS, also i'm currently working on my ReactJS project, my Angular project for my portfolio. I'll study soon Ionic. I'm open to cooperation and work in full day.
+### Hi there! My name is Max, im pre-junior Full-Stack Web Developer. I'm currently learning NodeJS, also i'm currently working on my ReactJS project for my portfolio. I'll study soon Ionic. I'm open to cooperation and work in full day.
 
 <!--
 **skorobahatko/skorobahatko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
