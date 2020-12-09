@@ -1,4 +1,4 @@
-### Hi there! My name is Max, im Trainee/Junior Full-Stack Web Developer. 
+### Hi there! My name is Max, im Junior Full-Stack Web Developer. 
 
 <!--
 **skorobahatko/skorobahatko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
